@@ -5,7 +5,7 @@
 - 💞️ When I'm not working I like being in nature (I love kayaking 🛶 and hiking 🏞️)
 - 📫 You can reach me at: salman_aji@brown.edu
 - 😄 Pronouns: He/Him/His
-- 👾  [My portfolio/](https://my-portfolio-two-lilac-92.vercel.app)
+- 👾  [My portfolio](https://my-portfolio-two-lilac-92.vercel.app)
 - ⚡ Fun fact: I have two birthdays!
 
 
