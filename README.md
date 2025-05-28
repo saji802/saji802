@@ -1,6 +1,6 @@
 ## Hi there, it's Salman! 👋
 
-- 🔭 I’m currently working on desining an AI-Augmented Data-Flow System that will help doctors in RI Hopsital save a ton of time!
+- 🔭 I’m currently working on designing an AI-Augmented Data-Flow System that will help doctors in RI Hopsital save a ton of time!
 - 🌱 I’m currently learning more about computational linguistics.
 - 💞️ When I'm not working I like being in nature (I love kayaking 🛶 and hiking 🏞️)
 - 📫 You can reach me at: salman_aji@brown.edu
